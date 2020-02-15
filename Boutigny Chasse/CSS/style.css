@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+@import url("components/container.css");
+@import url("components/Portrait.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 17px;
+  margin: 0px;
+}
+
+h1, h2 {
+	font-weight: lighter;
+}
+
+h1 {
+	font-family: 'Blackadder ITC', sans-serif;
+}
+h2 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+#introduction {
+	font-size: 24px;
+}
+
+#swim {
+	font-family: 'Bowlby One SC', cursive;
+}
+
+#bike {
+	font-family: 'Indie Flower', cursive;
+}
+
+#run {
+	font-family: 'Playfair Display', cursive;
+}
